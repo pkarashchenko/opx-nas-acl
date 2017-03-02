@@ -13,6 +13,7 @@
  permissions and limitations under the License.
 -->
 <root>
+<!--
      <table tag="system-flow">
           <allow-match>SRC_IP</allow-match>
           <allow-match>DST_IP</allow-match>
@@ -370,5 +371,6 @@
              </value>
          </match>
      </entry>
+-->
 </root>
 

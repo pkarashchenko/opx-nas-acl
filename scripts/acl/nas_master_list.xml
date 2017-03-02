@@ -13,6 +13,7 @@
  permissions and limitations under the License.
 -->
 <root>
+<!--
     <INGRESS>
         <table tag="system-flow" priority="11">
             <entry tag="bgp-src-port"       cpu-q="9" />
@@ -43,4 +44,5 @@
     </INGRESS>
     <EGRESS>
     </EGRESS>
+-->
 </root>
